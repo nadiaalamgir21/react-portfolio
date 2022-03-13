@@ -7,10 +7,10 @@ export default function About() {
       <hr />
       <img className="my-pic" src={process.env.PUBLIC_URL + '/img/nadia.jpeg'} alt="Nadia Alamgir"/>
       <p className="content is-italic mt-4">
-        I am Nadia Alamagir, a paral legal the full stack.
+        Hello! My name is Nadia Alamgir, and I am a full stack Developer.
       </p>
       <p className="content">
-        Write about yourself
+        I have always been interested in how technology has improved our daily duties, the interest and curiosity has finally taken over me hence I had to change my career focus to Web Development.
       </p>
     </div>
   );

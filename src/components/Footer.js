@@ -8,7 +8,7 @@ function Footer() {
       <div className="content has-text-centered">
         <p>
            A React site for -
-           <strong> My Full Stack Development Portfolio</strong>
+           <strong> My Full Stack Development Portfolio </strong>
           <a href="https://github.com/nadiaalamgir21" target="_blank" rel="noreferrer">
             Nadia Alamgir
           </a>
@@ -25,5 +25,7 @@ function Footer() {
     </footer>
   );
 }
+
+
 
 export default Footer;
